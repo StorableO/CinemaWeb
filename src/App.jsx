@@ -75,7 +75,7 @@ function App() {
                 <div className="row">
                     <div className="col-md-6">
                         <SeatsOn />
-                        {/* <InputSeat /> */}
+                        <InputSeat />
                     </div>
                     <div className="col-md-6">
                         <FormExample />
